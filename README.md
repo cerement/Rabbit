@@ -6,7 +6,7 @@
 
 ![preliminary keyboard layout for Rabbit](img/rabbit-prelim-2.png)
 
-Rabbit is yet another ergonomic keyboard, strongly influenced by both [TGR Alice](https://geekhack.org/index.php?topic=95009.0) and [Bemeier BMEK](https://github.com/bemeier/bmek):
+Rabbit is yet another ergonomic keyboard layout, strongly influenced by both [TGR Alice](https://geekhack.org/index.php?topic=95009.0) and [Bemeier BMEK](https://github.com/bemeier/bmek):
 * Ergonomic layout
 * [HHKB](https://www.hhkeyboard.com/) influence
 * More symmetric than Alice, less symmetric than BMEK
