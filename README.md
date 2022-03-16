@@ -1,6 +1,8 @@
 # Rabbit
 *“Oh dear! Oh dear! I shall be too late!”*
 
+![preliminary keyboard layout for Rabbit](img/Rabbit Prelim.jpg)
+
 Rabbit is yet another ergonomic keyboard strongly influenced by both [TGR Alice](https://geekhack.org/index.php?topic=95009.0) and [Bemeier BMEK](https://github.com/bemeier/bmek):
 * Ergonomic layout
 * [HHKB](https://www.hhkeyboard.com/) influence
