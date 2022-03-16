@@ -1,4 +1,7 @@
 # Rabbit
+
+![preliminary keyboard layout for Rabbit](img/white-rabbit-john-tenniel-mini.jpg)
+
 *“Oh dear! Oh dear! I shall be too late!”*
 
 ![preliminary keyboard layout for Rabbit](img/rabbit-prelim.png)
