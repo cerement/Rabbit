@@ -7,6 +7,6 @@ Rabbit is yet another ergonomic keyboard strongly influenced by both [TGR Alice]
 * Ergonomic layout
 * [HHKB](https://www.hhkeyboard.com/) influence
 * More symmetric than Alice, less symmetric than BMEK
-* Focus on curved rows rather than rotated clusters
+* Focus on curved rows (transitioning from 0° to 12°) rather than rotated clusters
 * Personal idiosyncrasies (like moving ‘6’ to the right side and using HHKB sizing for bottom modifiers)
 
