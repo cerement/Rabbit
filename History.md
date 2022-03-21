@@ -7,3 +7,5 @@
 ![preliminary keyboard layout for Rabbit](img/rabbit-prelim-3.png)
 
 ![preliminary keyboard layout for Rabbit](img/rabbit-prelim-4.png)
+
+![preliminary keyboard layout for Rabbit](img/rabbit-prelim-5.png)
