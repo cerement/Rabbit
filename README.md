@@ -4,7 +4,7 @@
 
 *“Oh dear! Oh dear! I shall be too late!”*
 
-![preliminary keyboard layout for Rabbit](img/rabbit-prelim-6.png)
+![preliminary keyboard layout for Rabbit](img/rabbit-prelim-7.png)
 
 Rabbit is yet another ergonomic keyboard layout:
 * Strongly influenced by:
