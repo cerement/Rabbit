@@ -8,4 +8,4 @@
 
 ![preliminary keyboard layout for Rabbit](img/rabbit-prelim-4.png)
 
-![preliminary keyboard layout for Rabbit](img/rabbit-prelim-7.png)
+![preliminary keyboard layout for Rabbit](img/rabbit-prelim-08.png)
