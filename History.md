@@ -9,3 +9,5 @@
 ![preliminary keyboard layout for Rabbit](img/rabbit-prelim-4.png)
 
 ![preliminary keyboard layout for Rabbit](img/rabbit-prelim-08.png)
+
+![preliminary keyboard layout for Rabbit](img/rabbit-prelim-09.png)
