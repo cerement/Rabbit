@@ -11,6 +11,7 @@ Rabbit is yet another ergonomic keyboard layout:
   * [TGR Alice](https://geekhack.org/index.php?topic=95009.0)
   * [Bemeier BMEK](https://github.com/bemeier/bmek)
   * [HHKB](https://www.hhkeyboard.com/)
+  * [Gondolindrim Sagittarius](https://geekhack.org/index.php?topic=107023.0)
 * Ergonomic
 * Non-split
 * Staggered
