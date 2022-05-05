@@ -4,7 +4,7 @@
 
 *“Oh dear! Oh dear! I shall be too late!”*
 
-![preliminary keyboard layout for Rabbit](img/rabbit-prelim-10.png)
+![preliminary keyboard layout for Rabbit](img/rabbit-prelim-11.png)
 
 Rabbit is yet another ergonomic keyboard layout:
 * Strongly influenced by:
@@ -17,6 +17,6 @@ Rabbit is yet another ergonomic keyboard layout:
 * Non-split
 * Staggered
 * More symmetric than Alice, less symmetric than BMEK, less extreme than Sagittarius, more aesthetic than Aster Ergo TKL
-* Focus on curved rows (transitioning from 0° to 12°) rather than rotated clusters
+* Focus on curved rows (transitioning from 0° to 16°) rather than rotated clusters
 * Personal idiosyncrasies – moving ‘6’ back to the right side, removing the extra ‘B’
 * Adding in a couple layout options (split/non-split shifts, ISO enter, stepped caps lock)
